@@ -1,4 +1,4 @@
-# Governmentality 2025
+## Governmentality 2025
 
 *A Public Record of Governance, Preparedness, and Decision-Making in Ireland*
 
@@ -7,10 +7,6 @@
 ## Overview
 
 **Governmentality 2025** is a publicly accessible evidential repository preserving a snapshot of the Irish State’s governance record during the period **2008–2025**. The repository documents a multi-decade failure to engage with **Operations Research (O.R.)**—a discipline essential for lawful decision-making under uncertainty in defence, public health, and national infrastructure.
-
-What began as a technical proposal matured, through repeated notice and non-response, into a **structural indictment** of institutional evasion, designed delay, and the systematic suppression of applied intelligence.
-
----
 
 ## Repository Structure
 
@@ -50,19 +46,7 @@ Governmentality-2025/
 
 ## The Canon (Primary Repository Links)
 
-# Governmentality 2025
-
-*A Public Record of Governance, Preparedness, and Decision-Making in Ireland*
-
----
-
-## Overview
-
-**Governmentality 2025** is a publicly accessible evidential repository preserving a snapshot of the Irish State’s governance record during the period **2008–2025**. The repository documents a multi-decade failure to engage with **Operations Research (O.R.)**—a discipline essential for lawful decision-making under uncertainty in defence, public health, and national infrastructure.
-
 What began as a technical proposal matured, through repeated notice and non-response, into a **structural indictment** of institutional evasion, designed delay, and the systematic suppression of applied intelligence.
-
----
 
 ## Repository Structure
 
