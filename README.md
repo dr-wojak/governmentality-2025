@@ -40,29 +40,22 @@
 
 The repository is grounded in the following statutory and constitutional pillars, which define the "fiduciary duty" and "decision duty" of the State:
 
-1. 
-**Constitutional Obligations**: The right to petition Parliament under **Article 15.10** and the executive authority vested in the Government under **Article 28** of *Bunreacht na hÉireann*.
+1. **Constitutional Obligations**: The right to petition Parliament under **Article 15.10** and the executive authority vested in the Government under **Article 28** of *Bunreacht na hÉireann*.
 
 
-2. 
-**Ethics in Public Office Act 1995**: Specifically **Section 8(2)** regarding complaints against members and **Section 8(3)** regarding statutory duties of disclosure and ethical conduct.
+2. **Ethics in Public Office Act 1995**: Specifically **Section 8(2)** regarding complaints against members and **Section 8(3)** regarding statutory duties of disclosure and ethical conduct.
 
 
-3. 
-**Standing Orders**: Dáil Standing Order **162(3)(d)** and Seanad Standing Order **145(3)(d)**, which govern the receipt and processing of formal complaints regarding member conduct.
+3. **Standing Orders**: Dáil Standing Order **162(3)(d)** and Seanad Standing Order **145(3)(d)**, which govern the receipt and processing of formal complaints regarding member conduct.
 
 
-4. 
-**Administrative Law**: The **Ministers and Secretaries Acts** and the **Cabinet Handbook**, which articulate the collective responsibility of Cabinet and the duty of oversight in national preparedness.
+4. **Administrative Law**: The **Ministers and Secretaries Acts** and the **Cabinet Handbook**, which articulate the collective responsibility of Cabinet and the duty of oversight in national preparedness.
 
 
-5. 
-**Houses of the Oireachtas (Inquiries, Privileges and Procedures) Act 2013**: Cited as the mechanism to compel the discharge of statutory duties where maladministration is established.
+5. **Houses of the Oireachtas (Inquiries, Privileges and Procedures) Act 2013**: Cited as the mechanism to compel the discharge of statutory duties where maladministration is established.
 
 
-6. 
-**Good Administration**: Derived from EU principles, requiring "substantive acknowledgment" of expert submissions rather than "simulated process" or "formulaic responses".
-
+6. **Good Administration**: Derived from EU principles, requiring "substantive acknowledgment" of expert submissions rather than "simulated process" or "formulaic responses".
 
 
 ---
