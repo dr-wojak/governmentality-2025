@@ -6,7 +6,6 @@
 
 **Governmentality 2025** is a publicly accessible evidential repository preserving a snapshot of the Irish State’s governance record during the period 2008–2025. The repository documents a "multi-decade failure" to engage with **Operations Research (O.R.)**—a discipline essential for managing decision-making under risk in defense, health, and national infrastructure. What began as a technical proposal has matured into a "structural indictment" of institutional evasion and the suppression of applied intelligence.
 
----
 ```Governmentality-2025/
 │
 ├── README.md
