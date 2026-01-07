@@ -34,91 +34,69 @@
 │       ├── README.md
 │       └── Governance_of_OR_Technical_Notes.pdf
 │
-└── LICENSE
-```
-## Legal Footnotes and Authorities
-
-The repository is grounded in the following statutory and constitutional pillars, which define the "fiduciary duty" and "decision duty" of the State:
-
-1. **Constitutional Obligations**: The right to petition Parliament under **Article 15.10** and the executive authority vested in the Government under **Article 28** of *Bunreacht na hÉireann*.
-
-
-2. **Ethics in Public Office Act 1995**: Specifically **Section 8(2)** regarding complaints against members and **Section 8(3)** regarding statutory duties of disclosure and ethical conduct.
-
-
-3. **Standing Orders**: Dáil Standing Order **162(3)(d)** and Seanad Standing Order **145(3)(d)**, which govern the receipt and processing of formal complaints regarding member conduct.
-
-
-4. **Administrative Law**: The **Ministers and Secretaries Acts** and the **Cabinet Handbook**, which articulate the collective responsibility of Cabinet and the duty of oversight in national preparedness.
-
-
-5. **Houses of the Oireachtas (Inquiries, Privileges and Procedures) Act 2013**: Cited as the mechanism to compel the discharge of statutory duties where maladministration is established.
-
-
-6. **Good Administration**: Derived from EU principles, requiring "substantive acknowledgment" of expert submissions rather than "simulated process" or "formulaic responses".
-
-
----
+└── LICENSE (CC0 1.0 Universal and CC BY-ND 4.0 (Attribution-NoDerivatives) for Redacted Personal Dispatches)```
 
 ## The Canon (Primary Repository Links)
 
-Below is the **awesome-governance** style list of canonical documents. These files establish the standing and scope of the record.
+### 00 Foundational Documents
+*Establishing the theoretical and structural basis of the failure.*
 
-* **[Bureaucratic Stagnation & Fiduciary Breach](https://drive.google.com/open?id=1pfi1TvGQeHA4nCXxiBo9a3KS0e9RkMnI)**
-A foundational indictment detailing the Irish State's multi-decade refusal to adopt Operations Research (O.R.), framing the failure as a constitutional default.
-
-
-* **[AI/OR Governance Charter (Consolidated)](https://drive.google.com/open?id=1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA)**
-A draft framework articulating the minimum conditions for public authorities to lawfully receive and act upon expert knowledge and civic signals.
+* **[Bureaucratic Stagnation & Fiduciary Breach](https://drive.google.com/open?id=1pfi1TvGQeHA4nCXxiBo9a3KS0e9RkMnI)** The core indictment detailing the State's multi-decade refusal to adopt O.R., framing the failure as a constitutional default.
+* **[Séachanachas: Governance by Avoidance](https://drive.google.com/open?id=1GG1Ru8fhC5Yd4kwTfaMz-69p5LdNo3Fy)** A structural analysis of "Evasocracy"—the systemic practice of governing through strategic withdrawal and jurisdictional gaps.
+* **[Architecture of Accountability](https://drive.google.com/open?id=1zAFdssVKb2N5Umdtab8aIn1tb4Qcf-Rg)** Mapping how institutional design in Ireland predictably converts expert knowledge into procedural inaction.
 
 
-* **[Charter on Strategic Intelligence & Risk](https://drive.google.com/open?id=1Z8BT7GUyxoPavzY7POWxRvc5r9Gi6xNK)**
-Identifies "signal absorption without consequence" as a core institutional vulnerability and establishes enforceable duties to correct it.
 
+### 01 Governance Charters
+*The proposed frameworks for structural recovery.*
 
-* **[Séachanachas: Governance by Avoidance](https://drive.google.com/open?id=1GG1Ru8fhC5Yd4kwTfaMz-69p5LdNo3Fy)**
-A theoretical and structural analysis of "Evasocracy"—governance through strategic withdrawal, jurisdictional gaps, and the refusal to cohere.
+* **[AI/OR Governance Charter (Consolidated)](https://drive.google.com/open?id=1vvsyfoki77NLeoKjKjocgUs_Z1Rj6xuA)** Minimum conditions for public authorities to lawfully receive and act upon expert evidence and civic signals.
+* **[Charter on Strategic Intelligence & Risk](https://drive.google.com/open?id=1Z8BT7GUyxoPavzY7POWxRvc5r9Gi6xNK)** Defining "signal absorption without consequence" as a justiciable institutional vulnerability.
+* **[Strategic Intelligence: Enforcement & Remedies](https://drive.google.com/open?id=1lEdPnMq6gFDztxJTrNVO5295zR0Yxjrr)** Outlining legal remedies—including mandamus and injunctive relief—for "designed forgetting."
 
+### 02 Evidentiary Record
+*Direct evidence of notice and non-responsiveness.*
 
-* **[Annex II: Named Members of Dáil Éireann](https://drive.google.com/open?id=1PnPpunEQL8PSPbmA487oQ9DEsaBiDTeB)**
-A formal list of specific deputies who received explicit warnings regarding pandemic preparedness and O.R. tools but failed to act.
+* **[National Exhibition of Administrative Failure](https://drive.google.com/open?id=1F-xN7kUuSrXPOZUnDdJj30VKljZx1hU6)** A curated evidence set demonstrating the nineteen-year gap between expert submission and State response.
+* **[Annex II: Named Members of Dáil Éireann](https://drive.google.com/open?id=1PnPpunEQL8PSPbmA487oQ9DEsaBiDTeB)** A formal list of specific deputies who received explicit warnings regarding pandemic preparedness but remained silent.
 
+### 03 Statutory Complaints
+*The active legal and ethical filings.*
 
-* **[Response to Ethics Complaint Rejection (Dáil)](https://drive.google.com/open?id=1zZbjlTLRJikWvYvP8sh5QM0MN7BqSo1U)**
-A legal rebuttal to the Clerk of the Dáil, asserting that the failure to adopt strategic intelligence tools constitutes a breach of statutory duty, not a "policy disagreement".
+* **[Ethics in Public Office Act: Section 8(2) Filing](https://drive.google.com/open?id=1_eHvOD7jFTJ60L_SQbZTP31TgZ93KEHe)** The formal statutory instrument used to initiate the complaint against nineteen members of the Seanad.
+* **[Response to Ethics Complaint Rejection (Dáil)](https://drive.google.com/open?id=1zZbjlTLRJikWvYvP8sh5QM0MN7BqSo1U)** Rebutting the "policy disagreement" defense and asserting a breach of statutory duty by the Houses of the Oireachtas.
+* **[Correspondence with Deputy Clerk of the Seanad](https://drive.google.com/open?id=1VbLw8ySjuosIMywGLuvEpVG9seeKqXDV)** Detailing the procedural architecture of the complaint and the reservation of rights for judicial review.
 
+### 04 Technical Background
+*The scientific and methodological context.*
 
-* **[Correspondence with Deputy Clerk of the Seanad](https://drive.google.com/open?id=1VbLw8ySjuosIMywGLuvEpVG9seeKqXDV)**
-Outlines the procedural architecture of the dual-house complaint and reserves the right to judicial review.
+* **[Governance of O.R.: Technical Notes](https://drive.google.com/open?id=1w6yusalU2x4chx6oOJ5Is5Gzehwz4Jx5)** Technical companion explaining why Operations Research is a foundational capability for crisis management and public logistics.
 
+---
 
-* **[Architecture of Accountability](https://drive.google.com/open?id=1zAFdssVKb2N5Umdtab8aIn1tb4Qcf-Rg)**
-Detailed mapping of how institutional design in Ireland predictably converts expert knowledge into inaction.
+## Legal Footnotes and Authorities
+The repository is grounded in the following pillars:
 
-
-* **[National Exhibition of Administrative Failure](https://drive.google.com/open?id=1F-xN7kUuSrXPOZUnDdJj30VKljZx1hU6)**
-A curated evidence set demonstrating the "nineteen-year gap" between the submission of O.R. methodologies and any substantive State response.
-
-
-* **[Ethics in Public Office Act: Section 8(2) Filing](https://drive.google.com/open?id=1_eHvOD7jFTJ60L_SQbZTP31TgZ93KEHe)**
-The formal statutory instrument used to initiate the complaint against nineteen members of the Seanad.
-
-
-* **[Strategic Intelligence: Enforcement & Remedies](https://drive.google.com/open?id=1lEdPnMq6gFDztxJTrNVO5295zR0Yxjrr)**
-Defines the justiciability of "designed forgetting" and outlines legal remedies including mandamus and injunctive relief.
-
-
-* **[Governance of O.R.: Technical Notes](https://drive.google.com/open?id=1w6yusalU2x4chx6oOJ5Is5Gzehwz4Jx5)**
-Explanatory companions detailing why Operations Research is a foundational capability for crisis management and emergency planning.
-
+1.  **Constitutional Obligations**: The right to petition Parliament under **Article 15.10** and the executive authority vested in the Government under **Article 28** of *Bunreacht na hÉireann*.[^1]
+2.  **Ethics in Public Office Act 1995**: Specifically **Section 8(2)** regarding complaints against members and **Section 8(3)** regarding statutory duties of disclosure and ethical conduct.[^2]
+3.  **Standing Orders**: Dáil Standing Order **162(3)(d)** and Seanad Standing Order **145(3)(d)**, which govern the receipt and processing of formal complaints regarding member conduct.
+4.  **Administrative Law**: The **Ministers and Secretaries Acts** and the **Cabinet Handbook**, which articulate the collective responsibility of Cabinet and the duty of oversight in national preparedness.
+5.  **Houses of the Oireachtas (Inquiries, Privileges and Procedures) Act 2013**: Cited as the mechanism to compel the discharge of statutory duties where maladministration is established.[^3]
+6.  **Good Administration**: Derived from EU principles, requiring "substantive acknowledgment" of expert submissions rather than "simulated process" or "formulaic responses".[^4]
+7.  **Data Protection & Privacy**: Redacted Personal Dispatches.[^5]
 
 
 ---
 
 ## Status
+This repository is a **historical snapshot of 2025**. It is preserved as a fixed record to prevent the retroactive dilution or revision of the evidential trail.
 
-This repository is a **historical snapshot of 2025**. It is preserved as a fixed record to prevent the retroactive dilution of the evidential trail.
+*This repository shifts the burden of proof to the State, treating the pervasive, self-preserving non-responsiveness as the primary breach of fiduciary duty.*
 
 ---
 
-This repository shifts the burden of proof to the State, treating the pervading (self-preserving) non-responsiveness as the primary breach of fiduciary duty.
+[^1]: **Article 28** vests executive authority in the Government as a whole, establishing the collective responsibility to respond to high-level strategic risks.
+[^2]: **Section 8(2)** provides the mechanism for citizens to name individuals in a complaint regarding failures of ethical duty.
+[^3]: The **2013 Act** allows for the investigation of maladministration where established procedures have been bypassed.
+[^4]: EU principles of **"Good Administration"** require that state responses be meaningful rather than formulaic.
+[^5]: **Redacted Personal Dispatches**: Several documents within this repository have been redacted to remove sensitive personal data, contact information, and identifiers belonging to non-public figures. These redactions comply with GDPR and privacy obligations while preserving the structural integrity and evidential value of the public record.
