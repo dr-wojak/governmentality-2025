@@ -20,7 +20,7 @@ Modern government isn't just top-down decrees; it's a **mentality** embedded in 
 
 **Applied to the Irish case:**  
 
-The nineteen-year pattern decribed in the D & R corpus isn't random incompetence or isolated failures—it's a **governmental rationality** in action. The state:
+The nineteen-year pattern decribed in the D&R canon isn't random incompetence or isolated failures—it's a **governmental rationality** in action. The state:
 
 * Accepts/acknowledges information asymmetry (holds strategic intel, proposals, risks).  
 * Coordinates administrative processes to **contain** rather than resolve (simulated engagement, deflection, non-escalation).  
@@ -147,6 +147,12 @@ The following documents constitute the canonical evidentiary and analytical reco
 - **Governance of Operations Research: Technical Notes**  
   Technical notes explaining why Operations Research constitutes baseline governance infrastructure for emergency planning, crisis response, and national resilience.  
   [Access](https://drive.google.com/open?id=1w6yusalU2x4chx6oOJ5Is5Gzehwz4Jx5&usp=drive_copy)
+
+---
+
+## Redundancy Awareness
+
+Landing page for the Complete D&R Canon : [Dealraitheachas & Riarachánachas](https://github.com/dr-wojak/redundancy-awareness)
 
 ---
 
