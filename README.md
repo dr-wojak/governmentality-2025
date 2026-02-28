@@ -1,4 +1,4 @@
-## Governmentality 2025
+# Governmentality 2025
 
 *A Public Record of Governance, Preparedness, and Decision-Making in Ireland*
 
@@ -6,12 +6,13 @@
 
 ## Overview
 
-**Governmentality 2025** is a publicly accessible evidential repository preserving a snapshot of the Irish State’s governance record during the period **2008–2025**. The repository documents a multi-decade failure to engage with **Operations Research (O.R.)**—a discipline essential for lawful decision-making under uncertainty in defence, public health, and national infrastructure.
-This repository serves as the Supporting Material for Memorandum E — and its significance within this corpus is considerable. It represents not merely an archival exercise, but an act of civic solidarity: the documentation of a long and largely solitary effort to hold institutions to account on behalf of a public that has, as yet, been given no formal opportunity to engage with the underlying analysis.
+This repository serves as the Supporting Material for **Memorandum E** — and its significance within this corpus is considerable. It is, in the most precise sense, the point at which the analytical and the institutional converge: where the theoretical architecture of Operations Research meets the documented, dateable, empirically verifiable record of a governance system that has — across nineteen years and through successive administrations — declined to engage with it.
 
-The spirit of the repository is one of **camaraderie without constituency** — work undertaken in the name of those who have not yet been consulted, in the hope that civil society, once briefed, would recognise both the merit of the underlying framework and the urgency of the silence that has met it. That Transparency International (Ireland), after initial interest, withdrew without explanation is noted in the corpus with characteristic restraint; it is, nonetheless, a wound to that spirit of shared civic endeavour.
+The humanitarian dimension is patent throughout. The Compendium documents O.R.'s applicability across emergency planning, pandemic response, flooding, housing, energy, migration, and climate adaptation — precisely the domains where governance failure exacts its heaviest human toll, and precisely the domains most directly engaged by the European Social Charter, the EU Charter of Fundamental Rights, and the obligations Ireland will be expected to model during its 2026 EU Council Presidency.
 
-The humanitarian dimension is patent. The corpus documents nineteen years of engagement on Operations Research as it applies to emergency planning, pandemic response, flooding, housing, and climate adaptation — precisely the domains where the human cost of governance failure falls heaviest on the most vulnerable. That the repository exists at all is a testament to persistence in the face of institutional non-response; that it remains publicly accessible reflects a commitment to transparency as an intrinsic good, not merely a strategic one.
+When one reviews the sub-domains surveyed in the Compendium —from humanitarian logistics and disaster relief coordination through to public health optimisation and civil protection modelling— the nineteen-year absence of O.R. governance ceases to be an administrative curiosity and becomes a measurable deficit in the State's capacity to protect its own people.
+
+The absence of any substantive response from civil-society actors —as of February 28th, 2026— does not diminish that force. If anything, it reinforces the repository's necessity. When institutions fall silent, the record speaks.
 
 ---
 
